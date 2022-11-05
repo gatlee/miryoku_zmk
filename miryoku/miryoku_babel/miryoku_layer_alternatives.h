@@ -123,7 +123,7 @@ U_NP,              U_NP,              U_LT(U_MEDIA, ESC),U_LT(U_NAV, SPC),  U_LT
 
 #define MIRYOKU_ALTERNATIVES_BASE_QWERTY_GATLEE \
 &kp Q,             &kp W,             &kp E,             &kp R,             &kp T,             &kp Y,             &kp U,             &kp I,             &kp O,             &kp P,             \
-U_MT(LCTRL, A),    U_MT(LALT, S),     U_MT(LSHFT, D),    U_MT(LGUI, F),     &kp G,             &kp H,             U_MT(LGUI, J),     U_MT(LSHFT, K),    U_MT(LALT, L),     U_MT(LCTRL, COLON),   \
+U_MT(LCTRL, A),    U_MT(LALT, S),     U_MT(LSHFT, D),    U_MT(LGUI, F),     &kp G,             &kp H,             U_MT(LGUI, J),     U_MT(LSHFT, K),    U_MT(LALT, L),     U_MT(LCTRL, SEMI),   \
 U_LT(U_BUTTON, Z), U_MT(RALT, X),     &kp C,             &kp V,             &kp B,             &kp N,             &kp M,             &kp COMMA,         U_MT(RALT, DOT),   U_LT(U_BUTTON, SLASH),\
 U_NP,              U_NP,              U_LT(U_MEDIA, DEL),U_LT(U_NAV, ESC),  U_LT(U_MOUSE, TAB),U_LT(U_FUN, RET),  U_LT(U_SYM, SPC),  U_LT(U_NUM, BSPC),  U_NP,             U_NP
 
