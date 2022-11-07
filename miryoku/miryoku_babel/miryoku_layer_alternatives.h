@@ -342,7 +342,7 @@ U_NP,              U_NP,              U_NA,              U_NA,              U_NA
 U_BOOT,            &u_to_U_TAP,       &u_to_U_EXTRA,     &u_to_U_BASE,      U_NA,              &bt BT_SEL 0,      &bt BT_SEL 1,      &bt BT_SEL 2,      &bt BT_SEL 3,      &bt BT_SEL 4,        \
 &kp LCTRL,         &kp LALT,          &kp LSHFT,         &kp LGUI,          U_NA,              &kp C_STOP,        &kp C_PREV,        &kp C_PP,          &kp C_NEXT,        &u_ep_tog,         \
 U_NA,              &kp RALT,          &u_to_U_FUN,       &u_to_U_MEDIA,     U_NA,              &kp C_MUTE,        &kp C_VOL_DN,      &kp C_VOL_UP,      &bt BT_CLR,        &u_out_tog,        \
-U_NP,              U_NP,              U_NA,              U_NA,              U_NA,              RET,               SPC,               DEL,               U_NP,              U_NP
+U_NP,              U_NP,              U_NA,              U_NA,              U_NA,              &kp RET,           &kp SPC,           &kp DEL,           U_NP,              U_NP
 
 #define MIRYOKU_ALTERNATIVES_MEDIA \
 U_BOOT,            &u_to_U_TAP,       &u_to_U_EXTRA,     &u_to_U_BASE,      U_NA,              &u_rgb_tog,        &u_rgb_eff,        &u_rgb_hui,        &u_rgb_sai,        &u_rgb_bri,        \
